@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 public class arr {
     public static void main(String[] args) {
         int arr[]=new int[15];
@@ -21,5 +23,6 @@ public class arr {
             System.out.print(arr[counter] + " ");
             counter++;
         }
+        System.out.println("new addition");
     }
 }
