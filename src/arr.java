@@ -24,5 +24,6 @@ public class arr {
             counter++;
         }
         System.out.println("new addition");
+        System.out.println("trail");
     }
 }
